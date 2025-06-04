@@ -2,7 +2,7 @@
 # 웹화면구현 파이널 프로젝트
 
 ### 컴퓨터공학과 이도원
-> 디플로이된 웹사이트 주소 : [//TODO: 디플로이된 주소 기입 ](//FIXME: 디플로이된 주소 기입)
+> 디플로이된 웹사이트 주소 : [https://iridescent-squirrel-b42fe2.netlify.app/](https://iridescent-squirrel-b42fe2.netlify.app/)
 
 ### 파이널 프로젝트 요약
 
